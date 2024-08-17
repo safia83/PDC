@@ -1,6 +1,6 @@
 # PDC
 ## CS3006 Parallel Distributed Computing Fall 2024 
-### book1: [Introduction to Parallel Programming](https://www.elsevier.com/books-and-journals/book-companion/9780128046050)
+### Book1: [Introduction to Parallel Programming](https://www.elsevier.com/books-and-journals/book-companion/9780128046050)
 ### Book2: [Introduction to Parallel Computing](https://www.cs.purdue.edu/homes/ayg/book/Slides/)
 ### Book3: [Programming Massively Parallel Processors](https://github.com/safia83/PDC/blob/main/Textbook%20%23%203%20-%20Ch%201%2C%20Ch%202%20and%20Ch%203%20only.pdf)
 
