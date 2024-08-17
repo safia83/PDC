@@ -16,8 +16,10 @@
     
     - Chapter 6: [Programming Shared Address Space Platforms ](https://www.cs.purdue.edu/homes/ayg/book/Slides/chap6_slides.pdf)
     - Chapter 7: [Programming Message Passing Platforms](https://www.cs.purdue.edu/homes/ayg/book/Slides/chap7_slides.pdf)
-  ===========================================================================
+ 
+===========================================================================
   * Final Term content is covered from  Book2 and Book3 
     - Chapter 3: [Principles of Parallel Algorithm Design](https://www.cs.purdue.edu/homes/ayg/book/Slides/chap3_slides.pdf)
     - Chapter 2 and 3: [Data-Parallel Computing and Scalable Parallel Execution](https://drive.google.com/file/d/1F4Ly29GF7s2NApGtwVQxFMkYKfHyscnu/view?usp=drive_link) 
-Additional supportive content such as research paper will be shared later.
+
+*Additional supportive content such as research paper will be shared later.
