@@ -2,7 +2,7 @@
 ## CS3006 Parallel Distributed Computing Fall 2024 
 ### book1: [Introduction to Parallel Programming](https://www.elsevier.com/books-and-journals/book-companion/9780128046050)
 ### Book2: [Introduction to Parallel Computing](https://www.cs.purdue.edu/homes/ayg/book/Slides/)
-### Book3: [Programming Massively Parallel Processors](Textbook # 3 - Ch 1, Ch 2 and Ch 3 only.pdf)
+### Book3: [Programming Massively Parallel Processors](https://github.com/safia83/PDC/blob/main/Textbook%20%23%203%20-%20Ch%201%2C%20Ch%202%20and%20Ch%203%20only.pdf)
 
 ============================================================================================
   * Mid Term 1 content is covered from [Introduction to Parallel Programming](https://www.elsevier.com/books-and-journals/book-companion/9780128046050)
@@ -19,4 +19,4 @@
   ======================================================================================
   * Final Term content is covered from  Book2 and Book3 
     - Chapter 3: [Principles of Parallel Algorithm Design](https://www.cs.purdue.edu/homes/ayg/book/Slides/chap3_slides.pdf)
-    - Chapter 2 and 3: [Data-Parallel Computing and Scalable Parallel Execution](Textbook # 3 - Ch 1, Ch 2 and Ch 3 only.pdf)  
+    - Chapter 2 and 3: [Data-Parallel Computing and Scalable Parallel Execution](https://github.com/safia83/PDC/blob/main/Textbook%20%23%203%20-%20Ch%201%2C%20Ch%202%20and%20Ch%203%20only.pdf) 
