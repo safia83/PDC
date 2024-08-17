@@ -2,7 +2,7 @@
 ## CS3006 Parallel Distributed Computing Fall 2024 
 ### Book1: [Introduction to Parallel Programming](https://www.elsevier.com/books-and-journals/book-companion/9780128046050)
 ### Book2: [Introduction to Parallel Computing](https://www.cs.purdue.edu/homes/ayg/book/Slides/)
-### Book3: [Programming Massively Parallel Processors](https://drive.google.com/file/d/1F4Ly29GF7s2NApGtwVQxFMkYKfHyscnu/view?usp=drive_link)
+### Book3: [Programming Massively Parallel Processors](https://github.com/cuda-mode/lectures/tree/main)
 
 ============================================================================================
   * Mid Term 1 content is covered from [Introduction to Parallel Programming](https://www.elsevier.com/books-and-journals/book-companion/9780128046050)
