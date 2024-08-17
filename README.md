@@ -1,6 +1,6 @@
 # PDC
-CS3006 Parallel Distributed Computing Fall 2024 
-Content will be covered from book [Introduction to Parallel Programming](https://www.elsevier.com/books-and-journals/book-companion/9780128046050)
+## CS3006 Parallel Distributed Computing Fall 2024 
+### Book: [Introduction to Parallel Programming](https://www.elsevier.com/books-and-journals/book-companion/9780128046050)
 
 ============================================================================================
   * Mid Term 1 content is covered from [Introduction to Parallel Programming](https://www.elsevier.com/books-and-journals/book-companion/9780128046050)
