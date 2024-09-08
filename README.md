@@ -9,7 +9,7 @@
      
     - Chapter 1: [Why Parallel Computing](https://elsevier.widen.net/content/cgswd4imok/original/CompanionAsset_9780128046050_LS_Chapter01.ppt?u=m5xwsu&download=true) [[Slides]](https://drive.google.com/file/d/1KDm4DCpI9dnp49k6NGhQmd9DdiCh3EGS/view?usp=sharing)
     - Chapter 2: [Parallel Hardware and Parallel Software](https://elsevier.widen.net/content/cfs7qk9ber/original/CompanionAsset_9780128046050_LS_Chapter02.ppt?u=m5xwsu&download=true) [[Slides]](https://drive.google.com/file/d/1gYmMwBfv_lvTX3Bl4jU--VxA3TEyZPip/view?usp=sharing)
-Handout[Global Sum Example with Problems](https://drive.google.com/file/d/1ODlBHPzWLA_7tuuLKeQtPxpr99cyY9un/view?usp=sharing)
+    - Handout [Global Sum Example with Problems](https://drive.google.com/file/d/1ODlBHPzWLA_7tuuLKeQtPxpr99cyY9un/view?usp=sharing)
 
 ============================================================================
 
